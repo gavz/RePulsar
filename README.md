@@ -10,6 +10,8 @@
 - Windows 10 1809
 - Windows 10 21H2
 
+Вдохновлено проектом [smbdoor](https://github.com/loneicewolf/smbdoor)
+
 ## Description
 This is a PoC implementation of an SMB backdoor based on our own research into the Windows kernel and the SMB mechanism. Since this is just a PoC, there is no special functionality. In the future, it is planned to support the basic functionality:
 - Arbitrary read/write memory
