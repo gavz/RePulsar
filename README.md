@@ -4,6 +4,7 @@
 - Произвольные чтение/запись в память
 - Выполнение шеллкода
 - Т.д.
+
 Также планирутеся подробное описание работы данного механизма.
 На текущий момент стабильно работает на:
 - Windows 10 1809
@@ -14,6 +15,7 @@ This is a PoC implementation of an SMB backdoor based on our own research into t
 - Arbitrary read/write memory
 - Shellcode execution
 - Etc.
+
 A detailed description of the operation of this mechanism is also planned.
 Currently working stably on:
 - Windows 10 1809
