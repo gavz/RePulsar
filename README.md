@@ -20,3 +20,8 @@ A detailed description of the operation of this mechanism is also planned.
 Currently working stably on:
 - Windows 10 1809
 - Windows 10 21H2
+
+## Полезная литература / Useful information
+https://blog.zecops.com/research/smbleedingghost-writeup-part-iii-from-remote-read-smbleed-to-rce/
+https://sec-in.com/article/1354
+https://zhuanlan.zhihu.com/p/567559622
