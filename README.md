@@ -21,6 +21,8 @@ Currently working stably on:
 - Windows 10 1809
 - Windows 10 21H2
 
+Inspired by the [smbdoor](https://github.com/loneicewolf/smbdoor) project
+
 ## Полезная литература / Useful information
 https://blog.zecops.com/research/smbleedingghost-writeup-part-iii-from-remote-read-smbleed-to-rce
 
